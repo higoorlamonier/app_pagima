@@ -1,3 +1,3 @@
-class IndexController < ActionController
+class IndexController
     
 end
